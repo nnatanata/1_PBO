@@ -2,7 +2,7 @@
     Nama File   : Car.java
     Deskripsi   : Kelas turunan dari Vehicle yang merepresentasikan mobil dan menghitung harga sewa dengan diskon.
     Pembuat     : Code dari modul
-    Tanggal     : 28 April 2025
+    Tanggal     : 22 April 2025
 */
 
 public class Car extends Vehicle {
