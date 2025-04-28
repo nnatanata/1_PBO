@@ -1,3 +1,10 @@
+/*
+    Nama File   : Person.java
+    Deskripsi   : Kelas dasar yang merepresentasikan seseorang dengan atribut nama dan status online/offline berdasarkan waktu.
+    Pembuat     : Code dari modul
+    Tanggal     : 22 April 2025
+*/
+
 public class Person
 {
     private String name;
