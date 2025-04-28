@@ -2,7 +2,7 @@
     Nama File   : Sewa.java
     Deskripsi   : Kelas utama untuk menjalankan program sewa kendaraan dan mengetes konsep polimorfisme.
     Pembuat     : Code dari modul
-    Tanggal     : 28 April 2025
+    Tanggal     : 22 April 2025
 */
 
 public class Sewa {
